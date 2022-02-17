@@ -17,6 +17,9 @@ Horiseon Social Solution Services website that offers Search Engine Optimization
 ## Website
 https://github.com/achuv37/Code-Refractoring.git
 
+## Image of the deployed application
+
+![Application](https://user-images.githubusercontent.com/93412486/154404551-ca5ed247-a739-41de-8d63-6f42e9c0cb68.jpg)
 
 ## Contribution
 Made with ❤️ by [Achu]
