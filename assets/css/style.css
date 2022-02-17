@@ -1,12 +1,12 @@
 
-/* Universal selector */
+/* Universal Selector */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
-/* Element selector: General styling */
+/* Element Selector: Common Styling for whole page */
 
 body {
   background-color: #d9dcd6;
@@ -21,7 +21,7 @@ a {
 }
 
 
-/* Styling header section  */
+/* Styling Header Section  */
 
 header {
   padding: 20px;
@@ -56,7 +56,7 @@ header nav ul li {
   margin-left: 25px;
 }
 
-/* header style end */
+/* Header Style End */
 
 
 /* Start Hero */
@@ -70,13 +70,12 @@ header nav ul li {
 }
 /* End Hero */
 
-/* Start services styling : Main section */
+/* Start Services Styling : Main Section */
 .service {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
-
 
 .info {
   margin-bottom: 20px;
@@ -104,11 +103,11 @@ header nav ul li {
   float: right;
   margin-left: 25px;
 }
-/* End services styling */
+/* End Services Styling */
 
 
-/* Side section styling */
- 
+/* Side Section Styling */
+
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -136,10 +135,10 @@ header nav ul li {
   max-width: 150px;
 }
 
-/* End side section styling */
+/* End Side Section Styling */
 
 
-/* start footer style */
+/* Start Footer Style */
 footer {
   padding: 30px;
   clear: both;
@@ -150,4 +149,4 @@ footer {
 footer h3 {
   font-size: 20px;
 }
-/* end footer style */
+/* End Footer Style */
